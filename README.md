@@ -7,8 +7,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ---
 ## 📸 Screenshot
 
-![Project Screenshot](./screenshot.png)  
-(Add a screenshot of your finished form here.)
+Screenshot.png
 
 ---
 ## 🛠️ Built With
